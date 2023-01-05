@@ -1,0 +1,4 @@
+pandas
+matplotlib
+openpyxl==3.0.10
+imblearn==0.0
